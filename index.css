@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* small helper to make table scroll nicely */
+html, body, #root { height: 100%; }
+body { background: #f3f4f6; padding: 1rem; }
